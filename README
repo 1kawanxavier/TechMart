@@ -1,0 +1,42 @@
+# Nome do Seu Projeto
+
+## Descrição
+Este é um projeto React Native desenvolvido com Expo. Empresa TechMart.
+
+## Pré-requisitos
+Antes de começar, certifique-se de ter os seguintes requisitos instalados em seu computador:
+- Node.js
+- Expo CLI
+- Git (opcional)
+
+## Instalação
+Siga estas etapas para configurar e executar o projeto em seu ambiente local:
+
+1. **Node.js**: Se você ainda não tem o Node.js instalado, baixe e instale a versão mais recente do Node.js no site oficial: [Node.js](https://nodejs.org/).
+
+2. **Expo CLI**: Instale o Expo CLI globalmente executando o seguinte comando no terminal:
+
+   npm install -g expo-cli
+
+
+3. Clone o Repositório: Clone este repositório em seu computador usando Git (ou baixe o ZIP e extraia-o):
+
+
+git clone https://github.com/1kawanxavier/TechMart
+
+4. Navegue até o Diretório do Projeto: Navegue até o diretório recém-clonado:
+
+cd techmart
+
+5. Instale as Dependências: Instale as dependências do projeto executando o seguinte comando:
+
+npm install
+
+
+## Executando o Aplicativo
+
+Agora que você configurou o ambiente de desenvolvimento, siga estas etapas para iniciar o aplicativo:
+
+1. Inicie o Servidor de Desenvolvimento Expo: Execute o seguinte comando no terminal dentro do diretório do projeto:
+
+    **expo start**
