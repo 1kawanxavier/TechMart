@@ -40,3 +40,8 @@ Agora que você configurou o ambiente de desenvolvimento, siga estas etapas para
 1. Inicie o Servidor de Desenvolvimento Expo: Execute o seguinte comando no terminal dentro do diretório do projeto:
 
     **expo start**
+
+## Bibliotecas
+
+npm install @react-navigation/native
+npm install firebase
