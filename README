@@ -1,4 +1,4 @@
-# Nome do Seu Projeto
+# TECHMART
 
 ## Descrição
 Este é um projeto React Native desenvolvido com Expo. Empresa TechMart.
@@ -39,7 +39,7 @@ Agora que você configurou o ambiente de desenvolvimento, siga estas etapas para
 
 1. Inicie o Servidor de Desenvolvimento Expo: Execute o seguinte comando no terminal dentro do diretório do projeto:
 
-    **expo start**
+    **npx expo start**
 
 ## Bibliotecas
 
